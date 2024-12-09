@@ -1,5 +1,5 @@
 # Tem-DocRED
-This repo contains the code used for the paper "Temporal Knowledge Graph Generation Based on Document-level Temporal Relation Extraction with Large Language Models".
+This repo contains the code used for the paper "A Temporal Knowledge Graph Generation Dataset Supervised Distantly by Large Language Models".
 
 ## Requirements
 + Python 3.10
