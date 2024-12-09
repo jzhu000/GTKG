@@ -1,0 +1,31 @@
+place of birth ## date of birth ## born in ## ABACABC
+location ## start time ## hold in ## ABACABC
+performer ## publication date ## performed by ## ABACABC
+country ## inception ## established in ## ABACABC
+director ## publication date ## directed ## ABACABC
+country ## publication date ## published in ## ABACABC
+country ## point in time ## hold in ## ABACABC
+founded by ## inception ## founded by ## ABACABC
+owned by ## dissolved, abolished or demolished ## abolished by ## ABACABC
+publisher ## inception ## published by ## ABACABC
+country of origin ## publication date ## published in ## ABACABC
+located in the administrative territorial entity ## dissolved, abolished or demolished ## abolished by ## ABACABC
+replaced by ## dissolved, abolished or demolished ## replaced by ## ABACABC
+producer ## publication date ## produced by ## ABACABC
+record label ## publication date ## published by ## ABACABC
+cast member ## publication date ## performed by ## ABACABC
+participant ## start time ## participated by ## ABACABC
+participant of ## start time ## participated ## ABBCABC
+participant ## point in time ## participated by ## ABACABC
+participant of ## point in time ## participated ## ABBCABC
+present in work ## publication date ## presented in work ## ABBCABC
+characters ## publication date ## character of ## ABACABC
+author ## publication date ## created by ## ABACABC
+conflict ## start time ## had a conflict with ## ABACABC
+platform ## publication date ## released for ## ABACABC
+developer ## publication date ## developed by ## ABACABC
+place of death ## date of death ## died in ## ABACABC
+applies to jurisdiction ## publication date ## applied to jurisdiction ## ABACABC
+applies to jurisdiction ## point in time ## applied to jurisdiction ## ABACABC
+located in the administrative territorial entity ## inception ## established in the administrative territorial entity ## ABACABC
+location ## point in time ## hold in ## ABACABC
