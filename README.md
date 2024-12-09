@@ -10,7 +10,7 @@ This repo contains the code used for the paper "Temporal Knowledge Graph Generat
 ## Datasets
 
 ### Original Re-DocRED
-Downloaded RE-DocRED is located in ``data``. Our proposed dataset also is located in this index.
+Downloaded [RE-DocRED](https://github.com/tonytan48/Re-DocRED) is located in ``data``. Our proposed dataset also is located in this index.
 
 ### Data Generation
 
